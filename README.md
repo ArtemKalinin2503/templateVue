@@ -1,4 +1,4 @@
-# gutta
+# Vue template
 
 ## Project setup
 ```
